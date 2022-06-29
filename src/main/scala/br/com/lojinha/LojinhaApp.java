@@ -16,7 +16,7 @@ public class LojinhaApp {
         Produto meuproduto = new Produto("Sony 2",Tamanho.GRANDE);
 
         meuproduto.getNome();
-        meuproduto.setNome("Playstation");
+        meuproduto.setNome("Playstatione");
         meuproduto.setValor(1);
         meuproduto.getValor();
         meuproduto.getTamanho();
