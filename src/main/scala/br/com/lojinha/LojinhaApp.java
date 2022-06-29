@@ -13,7 +13,7 @@ public class LojinhaApp {
 
     public static void main(String[] args) {
 
-        Produto meuproduto = new Produto("Sony 2",Tamanho.GRANDE);
+        Produto meuproduto = new Produto("Sony 10",Tamanho.GRANDE);
 
         meuproduto.getNome();
         meuproduto.setNome("Playstatione");
